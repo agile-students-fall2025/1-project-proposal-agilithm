@@ -20,9 +20,9 @@ By removing ambiguity and improving transparency, RoomieHub helps roommates **co
 
 ## For Whom?  
 The primary end-users are:  
-- 🏫 **College students** living in dorms or shared apartments.  
-- 🌍 **International or study-abroad students** adjusting to co-living in new environments.  
-- 💼 **Young professionals** sharing apartments in cities to save on rent.  
+- **College students** living in dorms or shared apartments.  
+- **International or study-abroad students** adjusting to co-living in new environments.  
+- **Young professionals** sharing apartments in cities to save on rent.  
 
 These are real groups who face common challenges in shared housing, and RoomieHub directly addresses their needs.  
 
